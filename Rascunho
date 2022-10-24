@@ -1,33 +1,61 @@
-[!DOCYTIPE]
-[HTML]
+<!DOCTYPE html>
+<html lang="pt-br">
 
-  [h1] Viver Mais [/h1]
-  [h2] [em] oferece: [/em] [/h2]
+<head>
 
-[p] Com a nova formula, e novo modelo de remedio, alem de conforto e suavidade ao ingeri-lo, trazemos efetividade em pouco tempo de uso!
-Composto de ervas naturais que priorizam sua saude, com nosso produto disponivel nas Farmacias de todo o Brasil. [/p]
+<meta charset="UTF-8">
+<title>VIVER MAiS</title>
 
-[p] Remédio testado e aprovados por especialistas. [/p]
+</head>
 
-[p] [strong] "Quais efeitos nosso remédio traz beneficiamente para os usuarios?" [/strong] [/p]
+<body>
 
-[p] 
--Ação intorpecente de dores fisicas;
--Melhoramento de aparencia facial, com diminuição de verugas, espinhas e cravos;
--Aumento de imunidade e resistencia imonologica;
--Eficazia em relaxar o estresse corporal e mental;
--Aparencia mais juvenil, e diminuição de queda capilar, com aumento de proteínas perdidas no organismo em tempo limite!
-[/p]
+<style>
 
-[p]
-Porém alguns avisos sobre nosso produto, não recomendado para menores de 12 anos sem presquição médica profissional, uso desnecassrio pode
+	body{
+
+		color: seagreen;
+		background: black;
+	}
+	h1{
+		color: darkslategrey;
+	}
+	h2{
+		color: darkgreen;
+	}
+
+</style>
+
+	<h1>Viver Mais</h1>
+	<h2><em>oferece:</em></h2>
+
+<p>Composto de ervas naturais que priorizam sua saúde, com nosso produto disponível nas Farmácias de todo o Brasil.</p>
+<p>Remédio testado e aprovados por especialistas.</p>
+
+<p> <strong> "Quais efeitos nosso remédio traz beneficamente para os usuarios?" </strong> </p>
+
+<p> 
+   -Ação intorpecente de dores fisicas;</p>
+<p>
+   -Melhoramento de aparência facial, com diminuição de verugas, espinhas e cravos;</p>
+<p>
+   -Aumento de imunidade e resistência imunologica;</p>
+<p>
+   -Eficácia em relaxar o estresse corporal e mental;</p>
+<p>-Aparência mais juvenil, e diminuição de queda capilar, com aumento de proteínas perdidas no organismo em tempo limite!</p>
+
+<p>
+Porém alguns avisos sobre nosso produto, não recomendado para menores de 12 anos sem prescrição médica profissional, uso desnecassrio pode
 ocasionar em excesso de proteinas no organismo possivelmente levando em overdose ou problemas no organismo do paciente, siga as instruções
 de seu médico corretamente, tomar o medicamento além do tempo estipulado pelo seu responsável pode gerar vicio, por gentileza use com mode-
-raçao e corretamente, [strong] qualquer efeito negativo procure seu responsável profissional. [/strong] Pela quebra de qualquer norma legal
+raçao e corretamente, <strong> qualquer efeito negativo procure seu responsável profissional. </strong> Pela quebra de qualquer norma legal
 do uso do medicamento, a imprensa não se resposabiliza.
-[/p]
+</p>
+<p>
+Feito a partir de ervas naturais, dentre gengibre, guaco, e outros derivados, adoçicado com mel, aroma artificial suave de menta e camomila. Disponível na primeira compra com metade do valor! <em>Escolha viver ou <strong>viver mais.</strong></em>
+</p>
 
-[p]
-Feito a partir de ervas naturais, dentre gengibre, guaco, e outros derivados, adoçicado com mel, aroma artificial suave de menta e camomila.
-[/p]
+<p>Para acessar nosso produto entre no seguinte link e compre pelo nosso mercado online:</p>
 
+</body>
+</html>
